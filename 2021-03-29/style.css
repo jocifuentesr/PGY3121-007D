@@ -1,0 +1,10 @@
+h1{
+    color:blueviolet;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: blue;
+    text-transform: capitalize;
+}
