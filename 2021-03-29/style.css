@@ -1,5 +1,10 @@
+body{
+    background-color: antiquewhite;
+   
+}
+
 h1{
-    color:blueviolet;
+    color: blueviolet;
     text-decoration: underline;
     text-align: center;
     text-transform: uppercase;
@@ -7,4 +12,15 @@ h1{
 p{
     color: blue;
     text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+}
+q{
+    font-size: 50px;
+    font-weight:  bolder;
+} 
+img{
+    float: right;
+    margin-bottom: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
 }
