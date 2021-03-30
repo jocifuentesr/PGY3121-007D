@@ -1,0 +1,23 @@
+h1{
+    color: tomato;
+}
+
+#intro{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#team{
+    background-color: aquamarine;
+}
+#rescue{
+    background-color: rgb(181, 197, 168);    
+}
+
+.morado{
+    color: purple;
+}
+
+.relleno{
+    padding: 20px;
+}
